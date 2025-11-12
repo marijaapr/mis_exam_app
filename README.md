@@ -1,16 +1,7 @@
 # mis_exam_app
 
-A new Flutter project.
+A Flutter application for displaying a chronological exam schedule for students. The app shows a list of exams with details like subject, date, time, and exam rooms, and highlights past and upcoming exams differently.  
 
-## Getting Started
+video link: https://www.loom.com/share/8dfbede18979428ebd1f3842da21aa75
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
