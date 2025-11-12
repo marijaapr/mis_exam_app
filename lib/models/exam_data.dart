@@ -1,0 +1,36 @@
+import 'exam.dart';
+
+List<Exam> examList = [
+  Exam(subject: "Мобилни информациски системи",
+      dateTime: DateTime(2025, 12, 15, 8, 0),
+      rooms: ["Лаб 13","Лаб 215"]),
+  Exam(subject: "Обработка на природни јазици",
+      dateTime: DateTime(2025, 11, 20, 10, 0),
+      rooms: ["Лаб 2","Лаб 200аб"]),
+  Exam(subject: "Бази на податоци",
+      dateTime: DateTime(2025, 11, 18, 14, 0),
+      rooms: ["АМФ МФ","Лаб 215"]),
+  Exam(subject: "Веројатност и статистика",
+      dateTime: DateTime(2025, 11, 19, 9, 0),
+      rooms: ["Лаб 13","Лаб 12"]),
+  Exam(subject: "Вовед во науката на податоци",
+      dateTime: DateTime(2025, 11, 28, 11, 0),
+      rooms: ["Лаб 13","Лаб 12","Лаб 2"]),
+  Exam(subject: "Калкулус",
+      dateTime: DateTime(2025, 11, 16, 17, 0),
+      rooms: ["Лаб 200аб","Лаб 215","Лаб 315"]),
+  Exam(subject: "Структурно програмирање",
+      dateTime: DateTime(2025, 11, 7, 8, 0),
+      rooms: ["Лаб 13","Лаб 200в"]),
+  Exam(subject: "Оперативни системи",
+      dateTime: DateTime(2025, 11, 5, 17, 0),
+      rooms: ["Лаб 13","Лаб 215"]),
+  Exam(subject: "Објектно-ориентирано програмирање",
+      dateTime: DateTime(2025, 11, 22, 12, 0),
+      rooms: ["Лаб 13","Лаб 215"]),
+  Exam(subject: "Архитектура и организација на компјутери",
+      dateTime: DateTime(2025, 11, 6, 13, 0),
+      rooms: ["Лаб 13","Лаб 215"]),
+
+
+];
